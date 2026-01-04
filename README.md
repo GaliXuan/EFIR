@@ -1,6 +1,8 @@
 # Efficient-IR (EFIR)
 
-Breaking the Scale: Efficient Hybrid Networks with Contrastive Compact Prompts for All-in-One Image Restoration. Our paper is currently under review, and full code with pre-trained weights will be released upon acceptance.
+Breaking the Scale: Efficient Hybrid Networks with Contrastive Compact Prompts for All-in-One Image Restoration. 
+
+Our paper is currently under review, and full code with pre-trained weights will be released upon acceptance.
 
 
 ## 📋 TODO List
