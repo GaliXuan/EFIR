@@ -10,6 +10,7 @@ Breaking the Scale: Efficient Hybrid Networks with Contrastive Compact Prompts f
 
 ## ✅ Visual Results
 -3d visual results (https://drive.google.com/drive/folders/1Z5fClNQeq8Cb6z1w1zcu_OS9CXit-EH9?usp=drive_link)
+
 -zero-shot visual results (https://drive.google.com/drive/folders/1D5Lisvp5tM6nZczE2ACTZl2ZHKGZyVpm?usp=sharing)
 
 ## 🚀 Quick Start
