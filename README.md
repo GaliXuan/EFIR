@@ -6,7 +6,7 @@ Our paper is currently under review, and full code with pre-trained weights will
 
 
 ## 📋 TODO List
-- [✅] Release partial experimental results
+- [✅] Release experimental results
 - [ ] Release training code
 - [ ] Release core implementation and pre-trained weights
 
