@@ -13,7 +13,7 @@ Our paper is currently under review, and full code with pre-trained weights will
 ## ✅ Visual Results
 -3d visual results (https://drive.google.com/drive/folders/1Z5fClNQeq8Cb6z1w1zcu_OS9CXit-EH9?usp=drive_link)
 
--zero-shot visual results (https://drive.google.com/drive/folders/1D5Lisvp5tM6nZczE2ACTZl2ZHKGZyVpm?usp=sharing)
+-zero-shot visual results (https://drive.google.com/drive/folders/1x_JqF1NyUukrOPiPrVMWKlBhJO3eFoE2?usp=drive_link)
 
 ## 🚀 Quick Start
 
